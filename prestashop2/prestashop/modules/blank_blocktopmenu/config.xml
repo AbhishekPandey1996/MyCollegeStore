@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blank_blocktopmenu</name>
+	<displayName><![CDATA[Flexible Top horizontal menu ]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Add a new customizable menu on top of your shop.]]></description>
+	<author><![CDATA[Oliveta]]></author>
+	<tab><![CDATA[]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
